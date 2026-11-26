@@ -53,3 +53,7 @@ Logged on a G14 2025:
 Exit the main script before running either.
 
 Requires [AutoHotkey v2](https://www.autohotkey.com/).
+
+## License
+
+MIT. See [LICENSE](LICENSE).
